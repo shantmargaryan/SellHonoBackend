@@ -360,88 +360,104 @@
             {
                 "id": "1",
                 "imgUrl": "/img/galleryImg1.jpg",
-                "title": "Minimal Bedroom"
+                "title": "Minimal Bedroom",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             },
             {
                 "id": "2",
                 "imgUrl": "/img/galleryImg2.jpg",
-                "title": "Minimal Bedroom"
+                "title": "Minimal Bedroom",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             },
             {
                 "id": "3",
                 "imgUrl": "/img/ProjectsImg1.jpg",
-                "title": "Minimal Bedroom"
+                "title": "Minimal Bedroom",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             },
             {
                 "id": "4",
                 "imgUrl": "/img/galleryImg3.jpg",
-                "title": "Minimal Bedroom"
+                "title": "Minimal Bedroom",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             },
             {
                 "id": "5",
                 "imgUrl": "/img/galleryImg4.jpg",
-                "title": "Minimal Bedroom"
+                "title": "Minimal Bedroom",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             },
             {
                 "id": "6",
                 "imgUrl": "/img/galleryImg5.jpg",
-                "title": "Minimal Bedroom"
+                "title": "Minimal Bedroom",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             }
         ],
         "bathRoom": [
             {
                 "id": "1",
                 "imgUrl": "/img/PostImg.jpg",
-                "title": "Minimal BathRoom"
+                "title": "Minimal BathRoom",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             },
             {
                 "id": "2",
                 "imgUrl": "/img/NewsImg1.jpg",
-                "title": "Minimal BathRoom"
+                "title": "Minimal BathRoom",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             }
         ],
         "kitchan": [
             {
                 "id": "1",
                 "imgUrl": "/img/ArticlesImg1.jpg",
-                "title": "Minimal Kitchan"
+                "title": "Minimal Kitchan",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             },
             {
                 "id": "2",
                 "imgUrl": "/img/ArticlesImg2.jpg",
-                "title": "Minimal Kitchan"
+                "title": "Minimal Kitchan",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             },
             {
                 "id": "3",
                 "imgUrl": "/img/ArticlesImg3.jpg",
-                "title": "Minimal Kitchan"
+                "title": "Minimal Kitchan",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             },
             {
                 "id": "4",
                 "imgUrl": "/img/BuildingImg.jpg",
-                "title": "Minimal Kitchan"
+                "title": "Minimal Kitchan",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             },
             {
                 "id": "5",
                 "imgUrl": "/img/greatImg.jpg",
-                "title": "Minimal Kitchan"
+                "title": "Minimal Kitchan",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             }
         ],
         "livingArea": [
             {
                 "id": "1",
                 "imgUrl": "/img/NewsImg2.jpg",
-                "title": "Minimal Living Area"
+                "title": "Minimal Living Area",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             },
             {
                 "id": "2",
                 "imgUrl": "/img/workImg1.jpg",
-                "title": "Minimal Living Area"
+                "title": "Minimal Living Area",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             },
             {
                 "id": "3",
                 "imgUrl": "/img/relatedImg.jpg",
-                "title": "Minimal Living Area"
+                "title": "Minimal Living Area",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquamsem vitae turpis dignissim maximus. Aliquam sollicitudin tellumassa, vbel maximus purus posuere in. Dojrices gravida dignissim. Praesent at nibh in mi fringilla mattis. Phasellus ut dolor odio. Aenean in the ipsum vel lectus bibendum commodo. "
             }
         ]
     },
@@ -484,7 +500,7 @@
         "background": "/img/BlogDetailsBg.jpg",
         "title": "Blog Details"
     },
-    "posts": {
+    "blogDetailsPosts": {
         "title": "Latest News",
         "blogDetailInfo": [
             {
@@ -552,123 +568,22 @@
                     "text": "Bedroom"
                 }
             ]
-        },
-        "blogDetailBuilding": {
-            "title": "Let’s Get Solution for Building Construction Work",
-            "imgUrl": "img/BuildingImg.jpg",
-            "longText": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injecthumour, or randomised words which don't look even slightly believable.",
-            "shortText": "Embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary."
-        },
-        "blogDetailDesign": {
-            "title": "Design sprints are great",
-            "text": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
-            "imgUrl": "img/greatImg.jpg",
-            "texts": [
-                "Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
-                "Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
-                "Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered."
-            ]
         }
     },
-    "team": {
-        "title": "Team",
-        "background": "img/teamBg.jpg"
-    },
-    "teamItems": [
-        {
-            "id": "1",
-            "imgUrl": "/img/AlexJohnson.jpg",
-            "name": "Alex Johnson",
-            "position": "Design, Australia",
-            "text": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrpobelie frandomised words which don't look even slightly believable."
-        },
-        {
-            "id": "2",
-            "imgUrl": "/img/teamImg1.jpg",
-            "name": "Nattasha Julie",
-            "position": "Design, Australia",
-            "text": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrpobelie frandomised words which don't look even slightly believable."
-        },
-        {
-            "id": "3",
-            "imgUrl": "/img/teamImg2.jpg",
-            "name": "John Smith",
-            "position": "Design, Australia",
-            "text": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrpobelie frandomised words which don't look even slightly believable."
-        },
-        {
-            "id": "4",
-            "imgUrl": "/img/teamImg3.jpg",
-            "name": "Nora Owen",
-            "position": "Design, Australia",
-            "text": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrpobelie frandomised words which don't look even slightly believable."
-        },
-        {
-            "id": "5",
-            "imgUrl": "/img/teamImg4.jpg",
-            "name": "Parker Carter",
-            "position": "Design, Australia",
-            "text": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrpobelie frandomised words which don't look even slightly believable."
-        },
-        {
-            "id": "6",
-            "imgUrl": "/img/teamImg5.jpg",
-            "name": "Avery Jackson",
-            "position": "Design, Australia",
-            "text": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrpobelie frandomised words which don't look even slightly believable."
-        },
-        {
-            "id": "7",
-            "imgUrl": "/img/teamImg6.jpg",
-            "name": "Luna James",
-            "position": "Design, Australia",
-            "text": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrpobelie frandomised words which don't look even slightly believable."
-        },
-        {
-            "id": "8",
-            "imgUrl": "/img/teamImg7.jpg",
-            "name": "Gianna Mateo",
-            "position": "Design, Australia",
-            "text": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrpobelie frandomised words which don't look even slightly believable."
-        }
-    ],
-    "teamSingle": {
-        "background": "/img/teamBg.jpg",
-        "title": "Team Single"
-    },
-    "teamSingleInfo": {
-        "personInfo": {
-            "title": "Alex Johnson",
-            "position": "Designer",
-            "text": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrpobelie frandomised words which don't look even slightly believable."
-        }
+    "blogDetailDesign": {
+        "title": "Design sprints are great",
+        "text": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
+        "imgUrl": "/img/greatImg.jpg",
+        "texts": [
+            "Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
+            "Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
+            "Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered."
+        ]
     },
     "contactLinks": {
         "email": "info@selhono.com",
         "phoneNumber": "+1(378)400-1234",
         "imgUrl": "img/AlexJohnson.jpg"
-    },
-    "teamSingleBiography": {
-        "title": "Short Biography​",
-        "text": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.Contrary to popular belief.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, njecthumour randomised words which don't look even slightly believable.Embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined but the majority have suffered alteration in some form chunks as necessary.",
-        "smallTitle": "Simplicity and Functionality",
-        "smallText": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in belief. There are many variations of passages of Lorem Ipsum from available, but the majority have suffered alteration in some form, njecthumour",
-        "qustionTitle": "Qustion And Answer",
-        "qustionText": "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.",
-        "accordionTitle": {
-            "titles": [
-                "Website & Mobile App Design?",
-                "How to Easy Successful Projects?",
-                "International Trade Experience?"
-            ]
-        },
-        "accordionText": {
-            "texts": [
-                "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.",
-                "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in.",
-                "Lorem ipsum dolor sit amet, adipiscing Aliquam eu sem vitae turpmaximus.posuere in."
-            ]
-        }
     },
     "contact": {
         "background": "img/contactBg.jpg"
